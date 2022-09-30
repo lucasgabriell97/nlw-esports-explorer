@@ -11,7 +11,7 @@
 NLW eSports - Trilha Explorer. Projeto desenvolvimento no evento da Rocketseat, com muito CSS para seguir evoluindo. 
 #NextLevelWeek 🚀
 
-## 💼 Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - HTML;
 - CSS;
