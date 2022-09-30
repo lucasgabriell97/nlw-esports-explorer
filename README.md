@@ -8,7 +8,7 @@
 
 ## 📚 Sobre o projeto
 
-NLW eSports Explorer - Projeto desenvolvimento no evento da Rocketseat, com muito CSS para seguir evoluindo. 
+NLW eSports - Trilha Explorer. Projeto desenvolvimento no evento da Rocketseat, com muito CSS para seguir evoluindo. 
 #NextLevelWeek 🚀
 
 ## 💼 Tecnologias utilizadas
