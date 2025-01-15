@@ -2,13 +2,15 @@
   💻<br>NLW eSports Explorer
 </h1>
 
-![Design preview for the NLW eSports](./assets/project-image.png)
+<div align="center">
+  <img src="./assets/project-image.png" alt="Imagem do projeto NLW eSports Explorer" />
+</div>
 
-<h4 align="center"><a href="https://lucasgabriell97.github.io/nlw-esports-explorer/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://nlw-esports-explorer-eight.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Sobre o projeto
 
-NLW eSports - Trilha Explorer. Projeto desenvolvimento no evento da Rocketseat, com muito CSS para seguir evoluindo. 
+<strong>NLW eSports - Trilha Explorer.</strong> Projeto desenvolvido no evento da Rocketseat, com muito CSS para seguir evoluindo. 
 #NextLevelWeek 🚀
 
 ## 🛠️ Tecnologias utilizadas
