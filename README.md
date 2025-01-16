@@ -15,5 +15,5 @@
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML;
-- CSS;
+- HTML
+- CSS
